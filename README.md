@@ -1,6 +1,8 @@
 # google-auth-sample
 
-https://developers.google.com/sheets/api/quickstart/python
+非推奨の oauth2client ではなく、google-auth を使って、YouTube Data API を叩くサンプル。
+
+参考: https://developers.google.com/sheets/api/quickstart/python
 
 ## Environment
 
