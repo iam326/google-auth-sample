@@ -7,6 +7,11 @@
 ## Environment
 
 ```
+$ sw_vers
+ProductName:	Mac OS X
+ProductVersion:	10.14.6
+BuildVersion:	18G103
+
 $ python --version
 Python 3.9.0
 
